@@ -24,7 +24,7 @@ export function Hero({ onNewsletterClick }: HeroProps) {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/public/c3c0ab56-13ef-4e70-b74a-f81c361294b3.jpg)',
+          backgroundImage: 'url(/c3c0ab56-13ef-4e70-b74a-f81c361294b3.jpg)',
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-40"></div>
